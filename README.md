@@ -9,6 +9,8 @@
 * https://github.com/MicrosoftDocs/mslearn_databricks
 * https://docs.microsoft.com/en-us/learn/paths/perform-data-science-azure-databricks/
 * https://spark.apache.org/ 
+* https://docs.microsoft.com/en-us/azure/databricks/data/databricks-file-system
+* https://docs.azuredatabricks.net/user-guide/dbutils.html
 
 ### Azure databricks helping portal
 
