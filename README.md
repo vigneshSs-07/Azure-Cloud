@@ -29,3 +29,5 @@
 ### Azure MachineLEarning
 * https://docs.microsoft.com/en-us/learn/paths/machine-learning-foundations-using-data-science/
 
+### Designing and Implementing a Microsoft Azure AI Solution 
+* https://github.com/MicrosoftLearning/AI-102-AIEngineer
