@@ -31,3 +31,6 @@
 
 ### Designing and Implementing a Microsoft Azure AI Solution 
 * https://github.com/MicrosoftLearning/AI-102-AIEngineer
+
+### Certificate renewal
+* https://docs.microsoft.com/en-us/learn/certifications/renew-your-microsoft-certification
